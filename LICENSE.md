@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features Overview
+## ✨ Features Overview:
 
 ### 🎯 **Aimbot**
 *   **Smart Targeting** – Prioritizes headshots and critical hitboxes.
